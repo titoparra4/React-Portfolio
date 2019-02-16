@@ -7,7 +7,6 @@ class Resume extends Component {
 			<div>
 				<Grid>
 					<Cell col={4}>
-						Left side
 						<div style={{ textAlign: 'center' }}>
 							<img
 								src="http://www.shareicon.net/download/2015/09/18/103157_man_512x512.png"
